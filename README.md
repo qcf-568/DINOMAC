@@ -1,11 +1,6 @@
 # DINOMAC
 [CVPR2026 Workshop Oral] First-Place Winner Solution of the CVPR2026 Robust DeepFake Detection Challenge
 
----
-
-# DINOMAC
-Paper title: First-Place Winner Solution of the CVPR2026 Robust DeepFake Detection Challenge
-
 <img width="1986" height="1001" alt="screenshot_2026-04-13_19-53-53" src="https://github.com/user-attachments/assets/ff2e435d-40ff-4da2-93f3-a8cd1f5b7e78" />
 
 ## Enviroment
