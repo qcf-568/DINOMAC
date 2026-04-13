@@ -23,3 +23,21 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python3 -m torch.distributed.launch --nnode
 ```
 CUDA_VISIBLE_DEVICES=0 python3 inference.py
 ```
+
+## Contact
+
+```
+202221012612@mail.scut.edu.cn
+```
+
+
+## Reference
+
+```
+@inproceedings{qu2026dinomac,
+  title={First-Place Winner Solution of the CVPR2026 Robust DeepFake Detection Challenge},
+  author={Qu, Chenfan and Jin, Lianwen and Li, Junchi and Liu, Jingjing and Yu, Bohan and Xie, Jiangwei and Liu, Jian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  year={2026}
+}
+```
