@@ -100,7 +100,7 @@ os.makedirs(save_root, exist_ok=True)
 class ViT(nn.Module):
     def __init__(self, freeze_backbone=False,):
         super(ViT, self).__init__()
-        self.vit = timm.create_model('vit_large_patch16_dinov3.lvd1689m', pretrained=True, features_only=True, drop_path_rate=0.1)
+        self.vit = timm.create_model('vit_large_patch16_dinov3.lvd1689m', pretrained=True, features_only=True)
         lora_config = LoraConfig(
             r=32,
             lora_alpha=64,
